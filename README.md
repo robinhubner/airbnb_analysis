@@ -1,12 +1,17 @@
 # airbnb_sydney_analysis
-Motivation
+1. Installation
 
-Filve Description
+2. Project Motivation
 
-How to interact with me
+3. File Description
 
-Licensing
+4. How to interact with my project
 
-Authors
+5. Licensing
 
-Acknowledgements
+
+6. Authors
+The file has been created by Robin Hubner. Feel free to text me at GitHub.
+
+7. Acknowledgements
+My credit goes to Udacity, who inspired me to start this data analysis project, which is my first data analysis project.
